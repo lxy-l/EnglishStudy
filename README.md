@@ -15,7 +15,7 @@
     * 有些介词可以与某些名词或代词构成介词短语，充当句子的主语、宾语、表语、定语、状语等。例如：In the morning, he goes to school. 早上，他去上学。（in the morning是时间状语）He is in love with her. 他爱上了她。（in love with是表语）
 
 
-## 代词，冠词，比较级，最高级
+## 代词
 
 - 代词是代替名词或起名词作用的短语或句子的词。代词根据其意思和用法可以分为人称代词，物主代词，反身代词，指示代词，相互代词，疑问代词，连接代词，关系代词，不定代词等九类。代词在句中可以作为主语，宾语，表语，定语，状语等成分。使用代词时要注意以下几点：
     * 人称代词有主格和宾格之分：主格用作主语，宾格用作宾语或介词的宾语。例如：He likes reading. 他喜欢阅读。（he是主格）She saw him yesterday. 她昨天见到了他。（him是宾格）
@@ -27,7 +27,21 @@
     * 连接代词包括who, whom, what, which, whose, whoever, whatever, whichever, whosoever等，它们在句中可以用作主语，宾语，表语，定语等，主要用于引导名词性从句。例如：I don't know what he is doing. 我不知道他在做什么。（what是宾语从句的主语）Whoever breaks the law will be punished. 任何违法的人都将受到惩罚。（whoever是主语从句的主语）
     * 关系代词包括who, whom, whose, which, that等，它们在句中可以用作主语，宾语，表语，定语等，主要用于引导定语从句。例如：The man who spoke just now is my teacher. 刚才讲话的那个人是我的老师。（who是定语从句的主语）The book that I bought yesterday is very interesting. 我昨天买的那本书很有趣。（that是定语从句的宾语）
     * 不定代词包括some, any, no, every等加body, one, thing构成的词，以及all, both, each, either, neither, none, some, any, many, much, few, little等表示数量或程度的词。它们在句中可以用作主语，宾语，表语，定语等。使用时要注意区别肯定和否定，单数和复数等。例如：Somebody is knocking at the door. 有人在敲门。（somebody是主语）I don't have anything to say. 我没有什么要说的。（anything是宾语）All the students are here. 所有的学生都在这里。（all是定语）
+- 代词总结
+  
+    | 类型 | 代词 | 用法 | 例句 |
+    | :---: | :---: | :---: | :---: |
+    | 人称代词 | I, you, he, she, it, we, they等 | 作为主语或宾语，表示人或物的身份或性质 | He likes reading. 他喜欢阅读。（he是主语）She saw him yesterday. 她昨天见到了他。（him是宾语） |
+    | 物主代词 | my, your, his, her, its, our, their等（形容词性物主代词）mine, yours, his, hers, its, ours, theirs等（名词性物主代词） | 作为定语或主语、宾语、表语，表示人或物的所有关系 | This is my book. 这是我的书。（my是形容词性物主代词）This book is mine. 这本书是我的。（mine是名词性物主代词） |
+    | 反身代词 | myself, yourself, himself, herself, itself, ourselves, yourselves, themselves等 | 作为宾语、同位语、表语等，表示人或物自身或加强语气 | He hurt himself while playing football. 他在踢足球时伤了自己。（himself是宾语）She herself is a doctor. 她本人就是一位医生。（herself是同位语）I'm not quite myself these days. 我近来身体不大舒服。（myself是表语） |
+    | 指示代词 | this, that, these, those等 | 作为主语、宾语、表语、定语等，表示指示或区分人或物的位置或范围 | This is a pen. 这是一支笔。（this是主语）I like that book. 我喜欢那本书。（that是宾语）These are my friends. 这些是我的朋友。（these是表语）That girl is very clever. 那个女孩很聪明。（that是定语） |
+    | 相互代词 | each other, one another等 | 作为宾语，表示相互之间的关系 | They love each other very much. 他们彼此相爱。We should help one another. 我们应该互相帮助。 |
+    | 疑问代词 | who, whom, whose, which, what等 | 作为主语、宾语、表语、定语等，引出特殊疑问句，表示询问人或物的身份或情况 | Who are you? 你是谁？（who是主语）Whom did you see? 你见到了谁？（whom是宾语）Whose book is this? 这是谁的书？（whose是定语）What do you want? 你想要什么？（what是宾语）Which one do you prefer? 你更喜欢哪一个？（which是主语） |
+    | 连接代词 | who, whom, what, which, whose等whoever, whatever, whichever等whosoever等 | 作为主语、宾语、表语、定语等，引导名词性从句，表示连接和引出人或物的身份或情况 | I don't know what he is doing. 我不知道他在做什么。（what是宾语从句的主语）Whoever breaks the law will be punished. 任何违法的人都将受到惩罚。（whoever是主语从句的主语） |
+    | 关系代词 | who, whom, whose, which, that等 | 作为主题、宾题、表题、定题等，引导定题从句，表示修饰和限制先行词的人或物的身份或情况 | The man who spoke just now is my teacher. 刚才讲话的那个人是我的老师。（who是定语从句的主语）The book that I bought yesterday is very interesting. 我昨天买的那本书很有趣。（that是定语从句的宾语） |
+    | 不定代词 | some, any, no, every等加body, one, thing构成的词all, both, each, either, neither, none, some, any, many, much, few, little等表示数量或程度的词 | 作为主语、宾语、表语、定语等，表示不确定或不明确的人或物的数量或程度 | Somebody is knocking at the door. 有人在敲门。（somebody是主语）I don't have anything to say. 我没有什么要说的。（anything是宾语）All the students are here. 所有的学生都在这里。（all是定语） |
 
+## 冠词
 - 冠词是置于名词前并限定名词的意义的虚词。英语中的冠词只有两种，分别是不定冠词a和an，以及定冠词the。不定冠词表示泛指或不确定的人或物；定冠词表示特指或确定的人或物。使用冠词时要注意以下几点：
     * a用于辅音音素开头的单词前，an用于元音音素开头的单词前。例如：a book 一本书；an apple 一个苹果。
     * 不定冠词通常用于未曾提到过或对方不知道的人或物的名称前；定冠词通常用于再次提到上文提到过或特定的人或物前。例如：I saw a dog in the street. It was very cute. 我在街上看到了一只狗。它很可爱。（第一次提到dog时用a，第二次提到时用the）
@@ -37,6 +51,7 @@
 
 - 定冠词和不定冠词都不能用于一般意义的复数名词或不可数名词前，但可以用于表示一定数量或范围的复数名词或不可数名词前。例如：Books are useful. 书是有用的。（books是一般意义的复数名词，不用冠词）The books on the shelf are mine. 架子上的书是我的。（the books表示一定范围的复数名词，用定冠词）Water is important. 水是重要的。（water是一般意义的不可数名词，不用冠词）The water in the bottle is clean. 瓶子里的水是干净的。（the water表示一定范围的不可数名词，用定冠词）
 
+## 比较级，最高级
 - 比较级和最高级是形容词和副词在句中表示比较或最高程度时所呈现的形式。比较级通常由原级加-er或more构成，用于两者之间的比较；最高级通常由原级加-est或most构成，用于三者或三者以上的比较。使用比较级和最高级时要注意以下几点：
     * 一般来说，单音节或双音节的形容词或副词用-er或-est构成比较级和最高级；多音节或以字母e结尾的形容词或副词用more或most构成比较级和最高级。例如：big-bigger-biggest 大-更大-最大；beautiful-more beautiful-most beautiful 美丽-更美丽-最美丽。
     * 有些形容词或副词的比较级和最高级是不规则变化的，要特别注意记忆。例如：good-better-best 好-更好-最好；bad-worse-worst 坏-更坏-最坏。
